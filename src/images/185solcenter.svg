@@ -1,0 +1,12 @@
+<svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Group 185">
+<circle id="Ellipse 1" cx="40" cy="40" r="40" fill="url(#paint0_diamond_1_1908)" fill-opacity="0.8"/>
+</g>
+<defs>
+<radialGradient id="paint0_diamond_1_1908" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(40 40) rotate(90) scale(40)">
+<stop stop-color="#EFEFE3"/>
+<stop offset="0.523247" stop-color="#E7DEE4"/>
+<stop offset="1" stop-color="#DFCDE5"/>
+</radialGradient>
+</defs>
+</svg>
